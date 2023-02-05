@@ -1,4 +1,4 @@
-# FundRaising_R
+# FundRaising_UPLIFT_R
 This is an assignment in the statistical learning-I class
 ## Goal
 To maximize the profits of a fundraising campain
